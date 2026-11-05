@@ -1,0 +1,40 @@
+# Patient data and images (keep private)
+data/processed/
+data/raw/
+data/interim/
+data/external/
+datasets/
+images/
+annotations/
+*.xlsx
+*.xls
+*.csv
+*.dcm
+*.nii
+*.nii.gz
+*.png
+*.jpg
+*.jpeg
+# Model artifacts and output
+*.pth
+*.pt
+*.ckpt
+*.rds
+*.RData
+*.rda
+*.pkl
+*.joblib
+results/
+outputs/
+train_test_outputs/
+*.log
+# Environment
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
+.DS_Store
