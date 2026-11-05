@@ -22,8 +22,6 @@ NAT-SLN-Metastasis-Prediction/
 │   └── README.md
 ├── data/
 │   └── README.md               # Input-format documentation only
-├── docs/
-│   └── RELEASE_NOTES.md
 ├── .gitignore
 ├── requirements.txt
 └── README.md
